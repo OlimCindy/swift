@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05.Dice/Dice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06.Magic_8_Ball/Magic 8 Ball" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/12.Tipsy-iOS13" vcs="Git" />
+  </component>
+</project>
